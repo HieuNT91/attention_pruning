@@ -1,0 +1,10 @@
+transformers
+peft
+numpy
+pandas
+seaborn
+matplotlib
+pylatexenc
+accelerate
+torch
+wandb
